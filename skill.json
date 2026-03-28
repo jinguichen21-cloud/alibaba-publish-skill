@@ -1,0 +1,21 @@
+{
+  "name": "国际站发品",
+  "version": "1.0.0",
+  "description": "帮助国际站商家复制URL，实现1688/淘宝/天猫/Amazon商品一键上架国际站，助力商家一键铺品。",
+  "author": "阿里巴巴国际站",
+  "entry": "SKILL.md",
+  "language": "zh-CN",
+  "tools": [
+    "web_search",
+    "web_fetch"
+  ],
+  "triggers": [
+    "搬品",
+    "一键搬品",
+    "国际站",
+    "阿里国际站",
+    "URL搬品"
+  ],
+  "context_length": 8000,
+  "memory": "session"
+}
